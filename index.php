@@ -1,7 +1,7 @@
 <?php
 /**
- * Plugin Name: MayeCreate events
- * Plugin URI: https://mayecreate.com/
+ * Plugin Name: MayeCreate Events
+ * Plugin URI: https://www.mayecreate.com/
  * Description: This is the events post type plugin for MayeCreate Design
  * Version: 1.0
  * Author: Tyler Ernst, Rebecca Thomas, Creative Director Monica Pitts
